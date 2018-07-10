@@ -1,16 +1,16 @@
 <?php
 
 // Méthodes public static disponibles
-// bool Matrice::estCarree(array $matrice)
-// bool Matrice::estIdentitee(array $matrice)
-// bool Matrice::deMemeTaille(array $matriceA, array $matriceB)
-// array Matrice::addMatrices(array $matriceA, array $matriceB)
-// array Matrice::multMatriceParScalaire(array $matrice, mixed int|décimaux $scalaire)
-// bool Matrice::sontMultipliables(array $matriceA, $matriceB)
-// array Matrice::multMatrices(array $matriceA, $MatriceB)
-// array Matrice::matricePuissance(array $matrice, int $puissance)
-// bool Matrice::matricesCommutables(array $matriceA, array $matriceB)
-// string Matrice::afficheMatrice(array $matrice)
+// bool Matrices::estCarree(array $matrice)
+// bool Matrices::estIdentitee(array $matrice)
+// bool Matrices::deMemeTaille(array $matriceA, array $matriceB)
+// array Matrices::addMatrices(array $matriceA, array $matriceB)
+// array Matrices::multMatriceParScalaire(array $matrice, mixed int|décimaux $scalaire)
+// bool Matrices::sontMultipliables(array $matriceA, $matriceB)
+// array Matrices::multMatrices(array $matriceA, $MatriceB)
+// array Matrices::matricePuissance(array $matrice, int $puissance)
+// bool Matrices::matricesCommutables(array $matriceA, array $matriceB)
+// string Matrices::afficheMatrice(array $matrice)
 
 
 
